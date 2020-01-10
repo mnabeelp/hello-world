@@ -1,2 +1,6 @@
 # hello-world
-A place to store ideas, resources, or even share and discuss things with others.
+
+Hello World,
+
+Nabeel here. Just starting off again, with web dev career and looking forward to become a pro.
+Somebody Stop Me! :))
